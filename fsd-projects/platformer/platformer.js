@@ -31,16 +31,30 @@ $(function () {
 
 
     // TODO 2 - Create Platforms
+    createPlatform
+    createPlatform
+    createPlatform
+    createPlatform
+    createPlatform
+    createPlatform
 
 
 
 
     // TODO 3 - Create Collectables
+    createcollectables
+    createcollectables
+    createcollectables
+    createcollectables
 
 
 
     
     // TODO 4 - Create Cannons
+    createconnons
+    createconnons
+    createconnons
+    createconnons
 
 
     
